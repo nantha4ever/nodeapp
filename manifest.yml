@@ -1,0 +1,6 @@
+---
+applications:
+- name: nantha4ever
+  memory: 256M
+  instances: 1
+  random-route: true
